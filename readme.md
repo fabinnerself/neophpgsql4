@@ -227,17 +227,6 @@ Si tienes sugerencias, mejoras o encuentras errores, no dudes en abrir un issue 
 
 ---
 
-### ✅ Mejoras realizadas:
-
-- ✅ Redacción más clara, profesional y fluida.
-- ✅ Estructura lógica: objetivo, instalación, uso, Docker, Render.
-- ✅ Mejor formato de comandos y bloques de código.
-- ✅ Añadido contexto: propósito del proyecto, tecnologías usadas.
-- ✅ Secciones nuevas: "Recursos", "Contribución", "Funcionalidades".
-- ✅ Corrección de errores tipográficos y gramaticales.
-- ✅ Uso de emojis para mejorar la legibilidad (opcional, pero común en READMEs modernos).
-- ✅ Mejor manejo de variables de entorno y seguridad.
----
 ## 📜 Licencia
 
 Este proyecto está bajo la licencia MIT. Para más detalles sobre los términos de la licencia, visita [MIT License](https://choosealicense.com/licenses/mit/).
