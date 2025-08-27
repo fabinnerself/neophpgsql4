@@ -224,7 +224,6 @@ Si tienes sugerencias, mejoras o encuentras errores, no dudes en abrir un issue 
 - [Render – Despliegue continuo](https://render.com)
 - [Vercel – Serverless Functions](https://vercel.com)
 - [Docker – Container platform](https://www.docker.com)
-```
 
 ---
 
