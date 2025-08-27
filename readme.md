@@ -11,8 +11,11 @@ Este proyecto contiene scripts PHP para demostrar la conexión a bases de datos 
 ├── index.php         # Script para conectar a la BD de Neon y leer la tabla 'book'
 ├── api/              # Directorio para funciones serverless en Vercel
 │   └── index.php     # Punto de entrada para Vercel
-├── composer.json     # Dependencias del proyecto
-├── vercel.json       # Configuración para despliegue en Vercel
+├── dockerfile        # archivo dockerfile de configuracion
+├── docker-compose.yml # archivo docker-compose para levantar el proyecto en docker
+├── compose.yml        # archivo compose.yml para levantar el proyecto en docker
+├── render.yml          # archivo render.yml para levantar el proyecto en render
+├── start.sh            # archivo start.sh para levantar el proyecto en render
 └── .gitignore        # Archivos a ignorar en el repositorio
 ```
 
