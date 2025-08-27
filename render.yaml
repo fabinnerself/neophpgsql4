@@ -1,0 +1,24 @@
+# render.yaml - Archivo de configuración para Render
+services:
+  - type: web
+    name: bel3-php-app
+    env: php
+    region: oregon
+    plan: free
+    buildCommand: |
+      # Instalar dependencias si es necesario
+      echo "PHP app ready"
+    startCommand: |
+      php -S 0.0.0.0:$PORT -t .
+    envVars:
+      - key: DB_HOST
+        value: ep-soft-wildflower-adgo4b7g-pooler.c-2.us-east-1.aws.neon.tech
+      - key: DB_PORT  
+        value: 5432
+      - key: DB_NAME
+        value: neondb
+      - key: DB_USER
+        value: neondb_owner
+      - key: DB_PASSWORD
+        value: npg_Lhnm7AaO9zks
+ 
