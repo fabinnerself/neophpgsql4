@@ -238,4 +238,22 @@ Si tienes sugerencias, mejoras o encuentras errores, no dudes en abrir un issue 
 - ✅ Corrección de errores tipográficos y gramaticales.
 - ✅ Uso de emojis para mejorar la legibilidad (opcional, pero común en READMEs modernos).
 - ✅ Mejor manejo de variables de entorno y seguridad.
+---
+## 📜 Licencia
 
+Este proyecto está bajo la licencia MIT. Para más detalles sobre los términos de la licencia, visita [MIT License](https://choosealicense.com/licenses/mit/).
+
+---
+
+## 🚀 Autor
+
+👤 Favian Medina Gemio
+
+| Recurso      | Dirección                                                                 |
+|--------------|---------------------------------------------------------------------------|
+| 📧 Email     | [favian.medina.gemio@gmail.com](mailto:favian.medina.gemio@gmail.com)     |
+| 💻 GitHub    | [https://github.com/fabinnerself](https://github.com/fabinnerself)        |
+| 🧠 LinkedIn  | [https://www.linkedin.com/in/favian-medina-gemio/](https://www.linkedin.com/in/favian-medina-gemio/) |
+| 💼 Portafolio| [https://favian-medina-cv.vercel.app/](https://favian-medina-cv.vercel.app/) |
+
+(c) 2025
